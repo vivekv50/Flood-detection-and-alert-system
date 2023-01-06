@@ -1,5 +1,5 @@
 # Flood-detection-and-alert-system
-**components needed **
+# components needed 
 1. Arduino UNO(ATmega328P)
 2. SIM800C GSM/GPRS Module
 3. Water level sensor 
